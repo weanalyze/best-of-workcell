@@ -1,19 +1,60 @@
 configuration:
   markdown_header_file: "config/header.md"
   markdown_footer_file: "config/footer.md"
+  min_projectrank: 0
+  min_stars: 0
+  project_new_months: 3
+  project_inactive_months: 12
+  project_dead_months: 10000
+  require_license: False
+  require_github: False
+  generate_toc: True
+  generate_legend: False
+  sort_by: star_count
+
+  # Everything here is for gallery view.
+  output_generator: markdown-gallery
+  default_image: screenshots/workcell-icon.png
+  skip_existing_screenshots: True
+  # skip_screenshots: True
+  ignore_github_screenshot: True
+  wait_before_screenshot: 10
+  projects_per_category: 9
+  projects_per_row: 3
+  # mobile_version: True
+  # mobile_markdown_header_file: "config/header-mobile.md"
+  short_toc: True
 
 categories:
-  # - category: "data-engineering"
-  #   title: "Machine Learning & Data Engineering"
-  #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
-
-labels:
-  # - label: "python"
-  #   image: "https://www.python.org/static/favicon.ico"
-  #   description: "Best-of list with Python projects"
+  - category: aigc
+    title: 🪐 AI Generated Content
+  - category: ml
+    title: 🤖 General Machine Learning
+  - category: nlp
+    title: 📚 Natural Language Processing
+  - category: cv
+    title: 👁️ Computer Vision
+  - category: audio
+    title: 🎵 Audio
+  - category: sci-tech
+    title: 🧬 Science & Technology
+  - category: business
+    title: 💰 Business & Economy
+  - category: non-ml
+    title: 🚀 Non-ML Apps
+  - category: extension
+    title: 🧰 Extensions & Components
+  - category: demo
+    title: 🎈 Official Demos
 
 projects:
-  # - name: best-of-ml-python
-  #   github_id: ml-tooling/best-of-ml-python
-  #   labels: ["python"]
-  #   category: "data-engineering"
+  - name: Interactive COVID-19
+    homepage: https://covid19.multivacplatform.org/
+    description: Analyze the cumulative data of confirmed, deaths, and recovered cases over time
+    category: sci-tech
+  - name: Travelling Salesman
+    homepage: https://github.com/miclindahl/tsp-streamlit/
+    image: https://github.com/miclindahl/tsp-streamlit/raw/master/tsp_subtours.gif
+    github_id: miclindahl/tsp-streamlit
+    category: business
+    show: True
