@@ -24,6 +24,8 @@ a link to the app/repo
     sure:
  
     ```yaml
+    - category: aigc
+      title: 🪐 AI Generated Content 
     - category: ml
       title: 🤖 General Machine Learning
     - category: nlp
@@ -33,7 +35,7 @@ a link to the app/repo
     - category: audio
       title: 🎵 Audio
     - category: sci-tech
-      title: 🔬 Science & Technology
+      title: 🧬 Science & Technology
     - category: business
       title: 💰 Business & Economy
     - category: non-ml
