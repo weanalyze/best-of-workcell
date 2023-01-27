@@ -1,1 +1,3 @@
-""
+,name,homepage,image,github_id,category,show,github_url,created_at,updated_at,last_commit_pushed_at,fork_count,star_count,commit_count,description,projectrank,projectrank_placing,new_addition
+0,Travelling Salesman,https://github.com/miclindahl/tsp-streamlit/,https://github.com/miclindahl/tsp-streamlit/raw/master/tsp_subtours.gif,miclindahl/tsp-streamlit,business,True,https://github.com/miclindahl/tsp-streamlit,2020-01-16 08:16:19,2020-01-16 08:30:54,2020-01-16 08:30:53,4.0,4.0,4.0,Animation of solving the traveling salesman problem to optimality using mixed-integer programming and iteratively..,5,1,True
+1,Interactive COVID-19,https://covid19.multivacplatform.org/,,,sci-tech,True,,,,,,,,"Analyze the cumulative data of confirmed, deaths, and recovered cases over time.",1,1,True
