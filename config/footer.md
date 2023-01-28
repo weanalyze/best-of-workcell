@@ -24,8 +24,14 @@ a link to the app/repo
     sure:
  
     ```yaml
-    - category: aigc
-      title: 🪐 AI Generated Content 
+    - category: demo
+      title: 🎈 Official Demos
+    - category: sci-tech
+      title: 🧬 Science & Technology
+    - category: bi
+      title: 📈 Business Intelligence
+    - category: fin
+      title: 💰 Finance
     - category: ml
       title: 🤖 General Machine Learning
     - category: nlp
@@ -34,16 +40,10 @@ a link to the app/repo
       title: 👁️ Computer Vision
     - category: audio
       title: 🎵 Audio
-    - category: sci-tech
-      title: 🧬 Science & Technology
-    - category: business
-      title: 💰 Business & Economy
     - category: non-ml
       title: 🚀 Non-ML Apps
     - category: extension
-      title: 🧰 Extensions & Components
-    - category: demo
-      title: 🎈 Official Demos
+      title: 🪐 Extensions & Components
     ```
 
     *Note: The new app will not show up in the gallery directly. I first need to 
