@@ -17,7 +17,7 @@ a link to the app/repo
       image: link/to/gif/png/jpg  # optional; if not given, will take screenshot of homepage
       github_id: owner/repo  # optional
       category: one of the categories below  # required
-      show: True
+      show: True # optional; If True, the project will always be shown even when the project would be actual hidden
     ```
 
     For `category`, choose one from below (e.g. `ml`) or leave empty if you are not 
