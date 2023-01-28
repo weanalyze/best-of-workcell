@@ -34,8 +34,6 @@ categories:
     title: 📈 Business Intelligence
   - category: fin
     title: 💰 Finance
-  - category: aigc
-    title: 🪐 AI Generated Content
   - category: ml
     title: 🤖 General Machine Learning
   - category: nlp
@@ -46,6 +44,9 @@ categories:
     title: 🎵 Audio
   - category: non-ml
     title: 🚀 Non-ML Apps
+  - category: extension
+    title: 🪐 Extensions & Components
+
 
 projects:
   - name: Interactive COVID-19
