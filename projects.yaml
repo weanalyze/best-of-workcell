@@ -26,6 +26,14 @@ configuration:
   short_toc: True
 
 categories:
+  - category: demo
+    title: 🎈 Official Demos
+  - category: sci-tech
+    title: 🧬 Science & Technology
+  - category: bi
+    title: 📈 Business Intelligence
+  - category: fin
+    title: 💰 Finance
   - category: aigc
     title: 🪐 AI Generated Content
   - category: ml
@@ -36,16 +44,8 @@ categories:
     title: 👁️ Computer Vision
   - category: audio
     title: 🎵 Audio
-  - category: sci-tech
-    title: 🧬 Science & Technology
-  - category: business
-    title: 💰 Business & Economy
   - category: non-ml
     title: 🚀 Non-ML Apps
-  - category: extension
-    title: 🧰 Extensions & Components
-  - category: demo
-    title: 🎈 Official Demos
 
 projects:
   - name: Interactive COVID-19
