@@ -91,7 +91,7 @@ This curated list contains 11 awesome open-source projects with a total of 1.4K 
 
 <a href="#"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<table width="100%"><tr align="center"><td valign="top" width="33.3%"><br><a href="https://share.streamlit.io/andfanilo/streamlit-echarts-demo/master/app.py"><img width="256" height="144" src="https://github.com/andfanilo/streamlit-echarts/raw/develop/img/demo.gif"></a><br><h3><a href="https://share.streamlit.io/andfanilo/streamlit-echarts-demo/master/app.py">ECharts</a></h3><p>⭐ 290 · <a href="https://github.com/andfanilo/streamlit-echarts">:octocat: Code</a></p><p>A Streamlit component to render ECharts</p><p><sup>by <a href="https://github.com/andfanilo">@andfanilo</a></sup></p></td><td valign="top" width="33.3%"><br><a href="https://streamlit-observable.herokuapp.com/"><img width="256" height="144" src="screenshots/Observable.png"></a><br><h3><a href="https://streamlit-observable.herokuapp.com/">Observable</a></h3><p>⭐ 70 · <a href="https://github.com/asg017/streamlit-observable">:octocat: Code</a></p><p>Embed Observable notebooks into Streamlit apps!</p><p><sup>by <a href="https://github.com/asg017">@asg017</a></sup></p></td><td valign="top" width="33.3%"><br><a href="https://github.com/andfanilo/streamlit-d3-demo"><img width="256" height="144" src="https://github.com/andfanilo/streamlit-d3-demo/raw/master/images/demo.gif"></a><br><h3><a href="https://github.com/andfanilo/streamlit-d3-demo">D3 Demo</a></h3><p>⭐ 51 · <a href="https://github.com/andfanilo/streamlit-d3-demo">:octocat: Code</a></p><p>D3 in React in Streamlit tech demo</p><p><sup>by <a href="https://github.com/andfanilo">@andfanilo</a></sup></p></td></tr></table>
+<table width="100%"><tr align="center"><td valign="top" width="33.3%"><br><a href="https://share.streamlit.io/andfanilo/streamlit-echarts-demo/master/app.py"><img width="256" height="144" src="https://github.com/andfanilo/streamlit-echarts/raw/develop/img/demo.gif"></a><br><h3><a href="https://share.streamlit.io/andfanilo/streamlit-echarts-demo/master/app.py">ECharts</a></h3><p>⭐ 300 · <a href="https://github.com/andfanilo/streamlit-echarts">:octocat: Code</a></p><p>A Streamlit component to render ECharts</p><p><sup>by <a href="https://github.com/andfanilo">@andfanilo</a></sup></p></td><td valign="top" width="33.3%"><br><a href="https://streamlit-observable.herokuapp.com/"><img width="256" height="144" src="screenshots/Observable.png"></a><br><h3><a href="https://streamlit-observable.herokuapp.com/">Observable</a></h3><p>⭐ 70 · <a href="https://github.com/asg017/streamlit-observable">:octocat: Code</a></p><p>Embed Observable notebooks into Streamlit apps!</p><p><sup>by <a href="https://github.com/asg017">@asg017</a></sup></p></td><td valign="top" width="33.3%"><br><a href="https://github.com/andfanilo/streamlit-d3-demo"><img width="256" height="144" src="https://github.com/andfanilo/streamlit-d3-demo/raw/master/images/demo.gif"></a><br><h3><a href="https://github.com/andfanilo/streamlit-d3-demo">D3 Demo</a></h3><p>⭐ 51 · <a href="https://github.com/andfanilo/streamlit-d3-demo">:octocat: Code</a></p><p>D3 in React in Streamlit tech demo</p><p><sup>by <a href="https://github.com/andfanilo">@andfanilo</a></sup></p></td></tr></table>
 
 
 ---
@@ -112,15 +112,21 @@ a link to the app/repo
       image: link/to/gif/png/jpg  # optional; if not given, will take screenshot of homepage
       github_id: owner/repo  # optional
       category: one of the categories below  # required
-      show: True
+      show: True # optional; If True, the project will always be shown even when the project would be actual hidden
     ```
 
     For `category`, choose one from below (e.g. `ml`) or leave empty if you are not 
     sure:
  
     ```yaml
-    - category: aigc
-      title: 🪐 AI Generated Content 
+    - category: demo
+      title: 🎈 Official Demos
+    - category: sci-tech
+      title: 🧬 Science & Technology
+    - category: bi
+      title: 📈 Business Intelligence
+    - category: fin
+      title: 💰 Finance
     - category: ml
       title: 🤖 General Machine Learning
     - category: nlp
@@ -129,16 +135,10 @@ a link to the app/repo
       title: 👁️ Computer Vision
     - category: audio
       title: 🎵 Audio
-    - category: sci-tech
-      title: 🧬 Science & Technology
-    - category: business
-      title: 💰 Business & Economy
     - category: non-ml
       title: 🚀 Non-ML Apps
     - category: extension
-      title: 🧰 Extensions & Components
-    - category: demo
-      title: 🎈 Official Demos
+      title: 🪐 Extensions & Components
     ```
 
     *Note: The new app will not show up in the gallery directly. I first need to 
