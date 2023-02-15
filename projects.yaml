@@ -48,57 +48,39 @@ categories:
     title: 🪐 Extensions & Components
 
 projects:
-  - name: Covid-19 Data Explorer
-    homepage: https://covid19.cwerner.ai/
-    image: https://github.com/cwerner/covid19/raw/master/assets/screenshot.png?raw=true
-    github_id: cwerner/covid19
-    category: sci-tech
+  - name: Stocks - SEC Form
+    homepage: https://jiandong-hello-plotly.hf.space/ui
+    image: https://raw.githubusercontent.com/weanalyze/best-of-workcell/main/screenshots/stocks-dd-sec.gif
+    github_id: jiandong/hello_plotly
+    category: finance
     show: True
-  - name: Travelling Salesman
-    homepage: https://github.com/miclindahl/tsp-streamlit/
+  - name: Economy - Avalable Indicies
+    homepage: https://jiandong-economy-available-indices.hf.space/ui
+    image: https://raw.githubusercontent.com/weanalyze/best-of-workcell/main/screenshots/economy-available-indices.png
+    github_id: jiandong/economy_available_indices
+    category: finance
+    show: True        
+  - name: Gurobi TSP demo
+    homepage: https://jiandong-gurobi-tsp.hf.space
     image: https://github.com/miclindahl/tsp-streamlit/raw/master/tsp_subtours.gif
-    github_id: miclindahl/tsp-streamlit
+    github_id: jiandong/gurobi_tsp
     category: bi
     show: True
-  - name: FastAPI Model Serving
-    homepage: https://github.com/davidefiocco/streamlit-fastapi-model-serving
-    image: https://davidefiocco.github.io/images/2020-06-27-streamlit.png
-    github_id: davidefiocco/streamlit-fastapi-model-serving
+  - name: Huggingface Model Serving
+    homepage: https://jiandong-model-serving-t5.hf.space
+    image: https://raw.githubusercontent.com/weanalyze/best-of-workcell/main/screenshots/huggingface-model-serving.png
+    github_id: jiandong/model_serving_t5
     category: ml
-    show: True
-  - name: Cheat Sheet
-    homepage: https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/master/app.py
-    image: https://github.com/daniellewisDL/streamlit-cheat-sheet/raw/master/streamlit-cheat-sheet.png
-    github_id: daniellewisDL/streamlit-cheat-sheet
-    category: non-ml
-    show: True
-  - name: Graph App Kit
-    homepage: https://github.com/graphistry/graph-app-kit
-    image: https://user-images.githubusercontent.com/4249447/92298596-8e518600-eeff-11ea-8276-069281a4af93.png
-    github_id: graphistry/graph-app-kit
-    category: ml
-    show: True
-  - name: Time Series Forecasting
-    homepage: https://autoforecast-prophet.herokuapp.com/
-    image: https://github.com/zachrenwick/streamlit_forecasting_app/raw/master/images/screenshot2.jpg
-    github_id: zachrenwick/streamlit_forecasting_app
-    category: bi
-    show: True
-  - name: Intent Example Finder
-    homepage: https://share.streamlit.io/rasahq/nlu-training-data/main
-    image: https://github.com/RasaHQ/NLU-training-data/raw/main/dashboard.png
-    github_id: RasaHQ/NLU-training-data
-    category: nlp
     show: True
   - name: Observable
     homepage: https://streamlit-observable.herokuapp.com/
     github_id: asg017/streamlit-observable
     category: extension
     show: True
-  - name: ECharts
-    homepage: https://share.streamlit.io/andfanilo/streamlit-echarts-demo/master/app.py
-    image: https://github.com/andfanilo/streamlit-echarts/raw/develop/img/demo.gif
-    github_id: andfanilo/streamlit-echarts
+  - name: Plotly Demo
+    homepage: https://jiandong-hello-plotly.hf.space/ui
+    image: https://raw.githubusercontent.com/weanalyze/best-of-workcell/main/screenshots/hello-plotly.png
+    github_id: jiandong/hello_plotly
     category: extension
     show: True
   - name: D3 Demo
@@ -106,10 +88,4 @@ projects:
     image: https://github.com/andfanilo/streamlit-d3-demo/raw/master/images/demo.gif
     github_id: andfanilo/streamlit-d3-demo
     category: extension
-    show: True
-  - name: Global cities explorer
-    homepage: https://github.com/asehmi/Data-Science-Meetup-Oxford/tree/master/GlobalCities
-    image: https://github.com/asehmi/Data-Science-Meetup-Oxford/raw/master/GCFS-streamlit.png
-    github_id: asehmi/Data-Science-Meetup-Oxford
-    category: bi
     show: True
