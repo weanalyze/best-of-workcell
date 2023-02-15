@@ -10,16 +10,16 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-11-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-7-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/weanalyze/best-of-workcell/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/weanalyze/best-of-workcell?color=green&label=updated"></a>
 </p>
 
-This curated list contains 11 awesome open-source projects with a total of 1.4K stars grouped into 10 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/weanalyze/best-of-workcell/issues/new/choose), submit a [pull request](https://github.com/weanalyze/best-of-workcell/pulls), or directly edit the [projects.yaml](https://github.com/weanalyze/best-of-workcell/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 7 awesome open-source projects with a total of 120 stars grouped into 10 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/weanalyze/best-of-workcell/issues/new/choose), submit a [pull request](https://github.com/weanalyze/best-of-workcell/pulls), or directly edit the [projects.yaml](https://github.com/weanalyze/best-of-workcell/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
-[🎈 Official Demos](#-official-demos) | [🧬 Science & Technology](#-science--technology) | [📈 Business Intelligence](#-business-intelligence) | [💰 Finance](#-finance) | [🤖 General Machine Learning](#-general-machine-learning) | [📚 Natural Language Processing](#-natural-language-processing) | [👁️ Computer Vision](#-computer-vision) | [🎵 Audio](#-audio) | [🚀 Non-ML Apps](#-non-ml-apps) | [🪐 Extensions & Components](#-extensions--components)
+[🎈 Official Demos](#-official-demos) | [🧬 Science & Technology](#-science--technology) | [📈 Business Intelligence](#-business-intelligence) | [💰 Finance](#-finance) | [🤖 General Machine Learning](#-general-machine-learning) | [📚 Natural Language Processing](#-natural-language-processing) | [👁️ Computer Vision](#-computer-vision) | [🎵 Audio](#-audio) | [🚀 Non-ML Apps](#-non-ml-apps) | [🪐 Extensions & Components](#-extensions--components) | [Others](#others)
 
 <br>
 
@@ -33,15 +33,13 @@ This curated list contains 11 awesome open-source projects with a total of 1.4K 
 
 <a href="#"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<table width="100%"><tr align="center"><td valign="top" width="33.3%"><br><a href="https://covid19.cwerner.ai/"><img width="256" height="144" src="https://github.com/cwerner/covid19/raw/master/assets/screenshot.png?raw=true"></a><br><h3><a href="https://covid19.cwerner.ai/">Covid-19 Data Explorer</a></h3><p>⭐ 22 · <a href="https://github.com/cwerner/covid19">:octocat: Code</a></p><p>Dashboard for the COVID19 spread</p><p><sup>by <a href="https://github.com/cwerner">@cwerner</a></sup></p></td></tr></table>
-
 <br>
 
 ## 📈 Business Intelligence
 
 <a href="#"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<table width="100%"><tr align="center"><td valign="top" width="33.3%"><br><a href="https://github.com/asehmi/Data-Science-Meetup-Oxford/tree/master/GlobalCities"><img width="256" height="144" src="https://github.com/asehmi/Data-Science-Meetup-Oxford/raw/master/GCFS-streamlit.png"></a><br><h3><a href="https://github.com/asehmi/Data-Science-Meetup-Oxford/tree/master/GlobalCities">Global cities explorer</a></h3><p>⭐ 69 · <a href="https://github.com/asehmi/Data-Science-Meetup-Oxford">:octocat: Code</a></p><p>Content shared at DS-OX Meetup</p><p><sup>by <a href="https://github.com/asehmi">@asehmi</a></sup></p></td><td valign="top" width="33.3%"><br><a href="https://autoforecast-prophet.herokuapp.com/"><img width="256" height="144" src="https://github.com/zachrenwick/streamlit_forecasting_app/raw/master/images/screenshot2.jpg"></a><br><h3><a href="https://autoforecast-prophet.herokuapp.com/">Time Series Forecasting</a></h3><p>⭐ 44 · <a href="https://github.com/zachrenwick/streamlit_forecasting_app">:octocat: Code</a></p><p>This MVP data web app uses the Streamlit framework and Facebook's Prophet forecasting p...</p><p><sup>by <a href="https://github.com/zachrenwick">@zachrenwick</a></sup></p></td><td valign="top" width="33.3%"><br><a href="https://github.com/miclindahl/tsp-streamlit/"><img width="256" height="144" src="https://github.com/miclindahl/tsp-streamlit/raw/master/tsp_subtours.gif"></a><br><h3><a href="https://github.com/miclindahl/tsp-streamlit/">Travelling Salesman</a></h3><p>⭐ 4 · <a href="https://github.com/miclindahl/tsp-streamlit">:octocat: Code</a></p><p>Animation of solving the traveling salesman problem to optimality using mixed-integer p...</p><p><sup>by <a href="https://github.com/miclindahl">@miclindahl</a></sup></p></td></tr></table>
+<table width="100%"><tr align="center"><td valign="top" width="33.3%"><br><a href="https://jiandong-gurobi-tsp.hf.space"><img width="256" height="144" src="https://github.com/miclindahl/tsp-streamlit/raw/master/tsp_subtours.gif"></a><br><h3><a href="https://jiandong-gurobi-tsp.hf.space">Gurobi TSP demo</a></h3><p>{}</p><p><sup>by <a href="https://github.com/jiandong">@jiandong</a></sup></p></td></tr></table>
 
 <br>
 
@@ -55,15 +53,13 @@ This curated list contains 11 awesome open-source projects with a total of 1.4K 
 
 <a href="#"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<table width="100%"><tr align="center"><td valign="top" width="33.3%"><br><a href="https://github.com/davidefiocco/streamlit-fastapi-model-serving"><img width="256" height="144" src="https://davidefiocco.github.io/images/2020-06-27-streamlit.png"></a><br><h3><a href="https://github.com/davidefiocco/streamlit-fastapi-model-serving">FastAPI Model Serving</a></h3><p>⭐ 300 · <a href="https://github.com/davidefiocco/streamlit-fastapi-model-serving">:octocat: Code</a></p><p>Simple web app example serving a PyTorch model using streamlit and FastAPI</p><p><sup>by <a href="https://github.com/davidefiocco">@davidefiocco</a></sup></p></td><td valign="top" width="33.3%"><br><a href="https://github.com/graphistry/graph-app-kit"><img width="256" height="144" src="https://user-images.githubusercontent.com/4249447/92298596-8e518600-eeff-11ea-8276-069281a4af93.png"></a><br><h3><a href="https://github.com/graphistry/graph-app-kit">Graph App Kit</a></h3><p>⭐ 110 · <a href="https://github.com/graphistry/graph-app-kit">:octocat: Code</a></p><p>Go from graph data to a secure and interactive visual graph app in 15 minutes. Batterie...</p><p><sup>by <a href="https://github.com/graphistry">@graphistry</a></sup></p></td></tr></table>
+<table width="100%"><tr align="center"><td valign="top" width="33.3%"><br><a href="https://jiandong-model-serving-t5.hf.space"><img width="256" height="144" src="https://raw.githubusercontent.com/weanalyze/best-of-workcell/main/screenshots/huggingface-model-serving.png"></a><br><h3><a href="https://jiandong-model-serving-t5.hf.space">Huggingface Model Serving</a></h3><p>{}</p><p><sup>by <a href="https://github.com/jiandong">@jiandong</a></sup></p></td></tr></table>
 
 <br>
 
 ## 📚 Natural Language Processing
 
 <a href="#"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
-
-<table width="100%"><tr align="center"><td valign="top" width="33.3%"><br><a href="https://share.streamlit.io/rasahq/nlu-training-data/main"><img width="256" height="144" src="https://github.com/RasaHQ/NLU-training-data/raw/main/dashboard.png"></a><br><h3><a href="https://share.streamlit.io/rasahq/nlu-training-data/main">Intent Example Finder</a></h3><p>⭐ 170 · <a href="https://github.com/RasaHQ/NLU-training-data">:octocat: Code</a></p><p>Crowd sourced training data for Rasa NLU models</p><p><sup>by <a href="https://github.com/RasaHQ">@RasaHQ</a></sup></p></td></tr></table>
 
 <br>
 
@@ -83,15 +79,21 @@ This curated list contains 11 awesome open-source projects with a total of 1.4K 
 
 <a href="#"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<table width="100%"><tr align="center"><td valign="top" width="33.3%"><br><a href="https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/master/app.py"><img width="256" height="144" src="https://github.com/daniellewisDL/streamlit-cheat-sheet/raw/master/streamlit-cheat-sheet.png"></a><br><h3><a href="https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/master/app.py">Cheat Sheet</a></h3><p>⭐ 220 · <a href="https://github.com/daniellewisDL/streamlit-cheat-sheet">:octocat: Code</a></p><p>A cheat sheet for streamlit</p><p><sup>by <a href="https://github.com/daniellewisDL">@daniellewisDL</a></sup></p></td></tr></table>
-
 <br>
 
 ## 🪐 Extensions & Components
 
 <a href="#"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<table width="100%"><tr align="center"><td valign="top" width="33.3%"><br><a href="https://share.streamlit.io/andfanilo/streamlit-echarts-demo/master/app.py"><img width="256" height="144" src="https://github.com/andfanilo/streamlit-echarts/raw/develop/img/demo.gif"></a><br><h3><a href="https://share.streamlit.io/andfanilo/streamlit-echarts-demo/master/app.py">ECharts</a></h3><p>⭐ 290 · <a href="https://github.com/andfanilo/streamlit-echarts">:octocat: Code</a></p><p>A Streamlit component to render ECharts</p><p><sup>by <a href="https://github.com/andfanilo">@andfanilo</a></sup></p></td><td valign="top" width="33.3%"><br><a href="https://streamlit-observable.herokuapp.com/"><img width="256" height="144" src="screenshots/Observable.png"></a><br><h3><a href="https://streamlit-observable.herokuapp.com/">Observable</a></h3><p>⭐ 70 · <a href="https://github.com/asg017/streamlit-observable">:octocat: Code</a></p><p>Embed Observable notebooks into Streamlit apps!</p><p><sup>by <a href="https://github.com/asg017">@asg017</a></sup></p></td><td valign="top" width="33.3%"><br><a href="https://github.com/andfanilo/streamlit-d3-demo"><img width="256" height="144" src="https://github.com/andfanilo/streamlit-d3-demo/raw/master/images/demo.gif"></a><br><h3><a href="https://github.com/andfanilo/streamlit-d3-demo">D3 Demo</a></h3><p>⭐ 51 · <a href="https://github.com/andfanilo/streamlit-d3-demo">:octocat: Code</a></p><p>D3 in React in Streamlit tech demo</p><p><sup>by <a href="https://github.com/andfanilo">@andfanilo</a></sup></p></td></tr></table>
+<table width="100%"><tr align="center"><td valign="top" width="33.3%"><br><a href="https://streamlit-observable.herokuapp.com/"><img width="256" height="144" src="screenshots/Observable.png"></a><br><h3><a href="https://streamlit-observable.herokuapp.com/">Observable</a></h3><p>⭐ 71 · <a href="https://github.com/asg017/streamlit-observable">:octocat: Code</a></p><p>Embed Observable notebooks into Streamlit apps!</p><p><sup>by <a href="https://github.com/asg017">@asg017</a></sup></p></td><td valign="top" width="33.3%"><br><a href="https://github.com/andfanilo/streamlit-d3-demo"><img width="256" height="144" src="https://github.com/andfanilo/streamlit-d3-demo/raw/master/images/demo.gif"></a><br><h3><a href="https://github.com/andfanilo/streamlit-d3-demo">D3 Demo</a></h3><p>⭐ 54 · <a href="https://github.com/andfanilo/streamlit-d3-demo">:octocat: Code</a></p><p>D3 in React in Streamlit tech demo</p><p><sup>by <a href="https://github.com/andfanilo">@andfanilo</a></sup></p></td><td valign="top" width="33.3%"><br><a href="https://jiandong-hello-plotly.hf.space/ui"><img width="256" height="144" src="https://raw.githubusercontent.com/weanalyze/best-of-workcell/main/screenshots/hello-plotly.png"></a><br><h3><a href="https://jiandong-hello-plotly.hf.space/ui">Plotly Demo</a></h3><p>{}</p><p><sup>by <a href="https://github.com/jiandong">@jiandong</a></sup></p></td></tr></table>
+
+<br>
+
+## Others
+
+<a href="#"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<table width="100%"><tr align="center"><td valign="top" width="33.3%"><br><a href="https://jiandong-hello-plotly.hf.space/ui"><img width="256" height="144" src="https://raw.githubusercontent.com/weanalyze/best-of-workcell/main/screenshots/stocks-dd-sec.gif"></a><br><h3><a href="https://jiandong-hello-plotly.hf.space/ui">Stocks - SEC Form</a></h3><p>{}</p><p><sup>by <a href="https://github.com/jiandong">@jiandong</a></sup></p></td><td valign="top" width="33.3%"><br><a href="https://jiandong-economy-available-indices.hf.space/ui"><img width="256" height="144" src="https://raw.githubusercontent.com/weanalyze/best-of-workcell/main/screenshots/economy-available-indices.png"></a><br><h3><a href="https://jiandong-economy-available-indices.hf.space/ui">Economy - Avalable Indicies</a></h3><p>{}</p><p><sup>by <a href="https://github.com/jiandong">@jiandong</a></sup></p></td></tr></table>
 
 
 ---
@@ -112,15 +114,21 @@ a link to the app/repo
       image: link/to/gif/png/jpg  # optional; if not given, will take screenshot of homepage
       github_id: owner/repo  # optional
       category: one of the categories below  # required
-      show: True
+      show: True # optional; If True, the project will always be shown even when the project would be actual hidden
     ```
 
     For `category`, choose one from below (e.g. `ml`) or leave empty if you are not 
     sure:
  
     ```yaml
-    - category: aigc
-      title: 🪐 AI Generated Content 
+    - category: demo
+      title: 🎈 Official Demos
+    - category: sci-tech
+      title: 🧬 Science & Technology
+    - category: bi
+      title: 📈 Business Intelligence
+    - category: fin
+      title: 💰 Finance
     - category: ml
       title: 🤖 General Machine Learning
     - category: nlp
@@ -129,16 +137,10 @@ a link to the app/repo
       title: 👁️ Computer Vision
     - category: audio
       title: 🎵 Audio
-    - category: sci-tech
-      title: 🧬 Science & Technology
-    - category: business
-      title: 💰 Business & Economy
     - category: non-ml
       title: 🚀 Non-ML Apps
     - category: extension
-      title: 🧰 Extensions & Components
-    - category: demo
-      title: 🎈 Official Demos
+      title: 🪐 Extensions & Components
     ```
 
     *Note: The new app will not show up in the gallery directly. I first need to 
